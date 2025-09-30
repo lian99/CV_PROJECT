@@ -11,6 +11,9 @@ Open the notebook in Colab.
 (Optional) drive.mount('/content/drive') to save outputs.
 
 Run all cells top-to-bottom.
+
+
+
 Local:
 pip install torch torchvision
 pip install git+https://github.com/lucidrains/denoising-diffusion-pytorch.git
